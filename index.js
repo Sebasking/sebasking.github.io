@@ -1,1 +1,3 @@
-alert("Hey you guys!")
+document.addEventListener("DOMContentLoaded", function () {
+    alert("This is how we do its")
+})
